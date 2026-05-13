@@ -79,8 +79,7 @@ GitHub Issues were used to distribute project tasks among team members. Each tas
 
 ## Project Documents
 
-- Final Report: `docs/Public_Final_Report.pdf`
-- Presentation Slides: `docs/Final_Presentation.pptx`
+- [Final Report](docs/Public_Final_Report.pdf)
 
 ## Team Members
 
