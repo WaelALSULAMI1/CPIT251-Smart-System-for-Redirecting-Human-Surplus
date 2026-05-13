@@ -71,7 +71,14 @@ Implemented core functions:
 
 ## Testing
 
-JUnit testing was performed on the main implemented functions, and all tests passed successfully.
+JUnit testing was performed on the main implemented functions:
+
+- Create Volunteer Profile
+- Post Volunteer Task
+- Matching Function
+- Apply for Task
+
+All tests passed successfully.
 
 ## GitHub Task Distribution
 
