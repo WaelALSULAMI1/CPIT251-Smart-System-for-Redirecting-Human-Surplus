@@ -47,7 +47,6 @@ The team used:
 
 The project includes:
 
-## System Design
 
 ![Use Case Diagram](diagrams/use_case_diagram.png)
 
