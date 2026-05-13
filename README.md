@@ -79,7 +79,7 @@ JUnit testing was performed on the main implemented functions:
 - Apply for Task
 
 All tests passed successfully.
-
+![JUnit Tests Passed](screenshots/junit_tests_passed.png)
 ## GitHub Task Distribution
 
 GitHub Issues were used to distribute project tasks among team members. Each task was assigned to a team member and closed after completion.
