@@ -80,7 +80,7 @@ GitHub Issues were used to distribute project tasks among team members. Each tas
 ## Project Documents
 
 - [Final Report](docs/Public_Final_Report.pdf)
-
+- [Presentation Slides](https://www.anygen.io/share/4zHULZbUox4xSb1nSTWPAB?share_id=7639136487560187613)
 ## Team Members
 
 - Wael Alsulami
