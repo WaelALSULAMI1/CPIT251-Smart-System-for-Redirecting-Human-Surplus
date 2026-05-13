@@ -51,16 +51,12 @@ The project includes:
 
 ![Use Case Diagram](diagrams/use_case_diagram.png)
 
-![Sequence Diagram](diagrams/sequence_diagram.png)
+![Sequence Diagram](diagrams/sequence_diagram.jpg)
 
 ![Class Diagram](diagrams/class_diagram.png)
 
 ![Architecture Diagram](diagrams/architecture_diagram.png)
-The system follows a layered architecture pattern:
 
-- Presentation Layer
-- Application Layer
-- Data Layer
 
 ## Implementation
 
